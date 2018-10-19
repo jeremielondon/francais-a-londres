@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Francais-a-londres",
-    "currentPage": "nos-partenaires.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "lightamp",
       "title": "LightAMP",
@@ -51,10 +51,10 @@
     ],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 82,
+    "uniqCompNum": 89,
     "versionPublish": "4.8.0",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async custom-element=\"amp-analytics\"\r\n    src=\"https://www.googletagmanager.com/gtag/js?id=UA-111255559-2\">\r\n<amp-analytics type=\"googleanalytics\">\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111255559-2');\r\n</amp-analytics>\r\n</script>\r\n"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -977,7 +977,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2286,7 +2286,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3117,7 +3117,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4037,7 +4037,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
